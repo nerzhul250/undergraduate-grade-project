@@ -1,0 +1,15 @@
+Sistema operativo: Microsoft Windows 10 Pro
+CPU: Intel(R) Core(TM) i7-8700 CPU @ 3.20GHz, 6 Cores(s)
+RAM: 16.0 GB
+GPU: NVIDIA GeForce GTX 1080
+tiempo de entrenamiento resnet 101 RUN3->0.55 sec/step->200k steps
+tiempo de entrenamiento inception v2 RUN5->0.16 sec/step->200k steps
+tiempo de entrenamiento frame inception v2 RUN10->0.16 sec/step->300k steps
+
+tiempo de inferencia resnet 101 RUN3->0.203 sec/step
+tiempo de inferencia por frame inception v2 RUN5->0.16 sec/step
+tiempo de inferencia por frame inception v2 RUN10->0.16 sec/step
+
+
+
+
